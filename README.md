@@ -1,3 +1,11 @@
-# codeacademy-html-website
+# Codeacademy HTML Website
+HTML website project from Codeacademy HTML &amp; CSS section. Made with HTML &amp; CSS.
 
-HTML website project from Codeacademy HTML &amp; CSS section.
+## Instructions
+Clone or download zip file. Open index.html file in your browser.
+
+## Contributing
+This repository is based on starter code from Codeacademy. Therefore I will not be accepting any pull requests.
+
+## Acknowledgements
+* Codeacademy
